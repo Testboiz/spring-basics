@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: spring-basics
+server:
+  port: 8080
